@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oilspill</folder>
+	<filename>oil_spill_6.png</filename>
+	<path>C:\Users\solai\Desktop\projects ml\real time projects\oil spill localization\oilspill\oil_spill_6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>976</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anomaly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>51</ymin>
+			<xmax>951</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>
